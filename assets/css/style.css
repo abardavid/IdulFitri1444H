@@ -319,7 +319,7 @@ h6 {
 .navbar-mobile .dropdown ul {
   position: static;
   display: none;
-  margin: 10px 20px;
+  margin: 5px 10px;
   padding: 10px 0;
   z-index: 99;
   opacity: 1;
@@ -347,7 +347,7 @@ h6 {
 }
 
 .navbar-mobile .dropdown > .dropdown-active {
-  display: block;
+  display: contents;
 }
 
 /*--------------------------------------------------------------
