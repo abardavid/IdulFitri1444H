@@ -3,6 +3,10 @@ body {
   color: #444444;
 }
 
+audio {
+  display: none;
+}
+
 a {
   color: #f5c050;
   text-decoration: none;
